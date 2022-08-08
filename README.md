@@ -1,4 +1,8 @@
-### Hi there 👋
+
+### **LEAH WHITE**
+
+<p>Graduate research assistant<br>
+New Mexico State University</p>
 
 <!--
 **leahwhite/leahwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
