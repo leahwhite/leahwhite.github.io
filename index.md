@@ -1,6 +1,4 @@
----
-title: Leah White
----
+
 <p>Graduate research assistant interested in fire and wildlife.<br>
 New Mexico State University, expected graduation 2023.</p>
 
