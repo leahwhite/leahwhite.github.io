@@ -4,7 +4,6 @@ description: Website in progress (no kidding?)
 email: leahmwhite42@gmail.com
 
 header_pages:
- - index.md
  - cv.md
  - about.md
  
