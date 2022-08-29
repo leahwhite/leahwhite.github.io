@@ -1,6 +1,4 @@
 
-### **LEAH WHITE**
-
 <p>Graduate research assistant<br>
 New Mexico State University</p>
 
