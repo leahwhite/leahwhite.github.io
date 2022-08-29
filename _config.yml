@@ -1,3 +1,4 @@
+title: Leah White
 theme: jekyll-theme-tactile
 description: Website in progress (no kidding?)
 email: leahmwhite42@gmail.com
@@ -16,4 +17,3 @@ show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
 toc: TRUE
-highlight: breezedark
