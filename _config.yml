@@ -1,3 +1,20 @@
 theme: jekyll-theme-tactile
 title: Leah White
 description: Website in progress (no kidding?)
+email: leahmwhite42@gmail.com
+
+header_pages:
+ - index.md
+ - cv.md
+ - about.md
+ 
+# social links
+twitter_username: mammaldreams # DO NOT include the @ character, or else the build will fail!
+github_username:  leahwhite # DO NOT include the @ character, or else the build will fail!
+linkedin: www.linkedin.com/in/leah-white-761930179/
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
+toc: TRUE
+highlight: breezedark
